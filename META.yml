@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: Business-ReportWriter
-version: 0.06
+version: 0.08
 author:
   - Kaare Rasmussen <kar at kakidata.dk>
 abstract: ! >-
